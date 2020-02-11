@@ -11,7 +11,8 @@
 - 8 [stylecloud:Generate stylistic wordclouds, including gradients and icon shapes!](https://github.com/minimaxir/stylecloud)
 - 9 [Python GUI For Humans - Transforms tkinter, Qt, Remi, WxPython into portable people-friendly Pythonic interfaces](https://github.com/PySimpleGUI/PySimpleGUI)
 - 10 [yagmail -- Yet Another GMAIL/SMTP client](https://github.com/kootenpv/yagmail)
-- 10 [Faker is a Python package that generates fake data for you](https://github.com/joke2k/faker)
+- 11 [Faker is a Python package that generates fake data for you](https://github.com/joke2k/faker)
+- 12 [Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
 
 ## 资源集合
 - 1 [awesone-python](https://github.com/vinta/awesome-python)
@@ -26,4 +27,5 @@
 - 3 [langid.py](https://github.com/saffsd/langid.py)
 - 4 [PyText is a deep-learning based NLP modeling framework built on PyTorch](https://github.com/facebookresearch/pytext)
 - 5 [allennlp](https://github.com/allenai/allennlp)
+- 6 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
 
