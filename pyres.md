@@ -29,3 +29,4 @@
 - 5 [allennlp](https://github.com/allenai/allennlp)
 - 6 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
 - 7 [Rasa聊天机器人](https://github.com/RasaHQ/rasa)
+- 8 [Rasa NLU for Chinese](https://github.com/crownpku/Rasa_NLU_Chi)
