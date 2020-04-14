@@ -58,11 +58,11 @@
 - 1 [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai , Xuanjing Huang. 2020
 
 ### 文章和博客
-- 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11)
-- 2 [神经网络结构在命名实体识别（NER）中的应用](https://www.cnblogs.com/robert-dlut/p/6847401.html)
-- 3 [使用RNN解决NLP中序列标注问题的通用优化思路](https://blog.csdn.net/malefactor/article/details/50725480)
-- 4 [深度学习在文本分类中的应用](https://www.cnblogs.com/llhthinker/p/8127788.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- 5 [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s?__biz=MzU5NzI5MDgzOA==&mid=2247483723&idx=1&sn=39b7e399800560dc1febd4f42374a018&chksm=fe54fb72c9237264a7c3b4be3303a2cd8093ee2cb95ea2de93064dc2448309b4032b85142577&mpshare=1&scene=1&srcid=0108YjgeQaLVVmEt4x7IhzRd&pass_ticket=SXqNp2YyuWQ4MmMLe%2BL9sYOBGipiCujTAjOL%2FbtfCUVXlu2BB4sgjH%2ByfvcJym2s#rd)
+- 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11) 2020
+- 2 [神经网络结构在命名实体识别（NER）中的应用](https://www.cnblogs.com/robert-dlut/p/6847401.html) 2017
+- 3 [使用RNN解决NLP中序列标注问题的通用优化思路](https://blog.csdn.net/malefactor/article/details/50725480) 2016
+- 4 [深度学习在文本分类中的应用](https://www.cnblogs.com/llhthinker/p/8127788.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 2017
+- 5 [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s?__biz=MzU5NzI5MDgzOA==&mid=2247483723&idx=1&sn=39b7e399800560dc1febd4f42374a018&chksm=fe54fb72c9237264a7c3b4be3303a2cd8093ee2cb95ea2de93064dc2448309b4032b85142577&mpshare=1&scene=1&srcid=0108YjgeQaLVVmEt4x7IhzRd&pass_ticket=SXqNp2YyuWQ4MmMLe%2BL9sYOBGipiCujTAjOL%2FbtfCUVXlu2BB4sgjH%2ByfvcJym2s#rd) 2018
 
 ### 电子书
 - 1 [Stanford:Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
