@@ -36,7 +36,7 @@
 #### 文本分类
 - 1 [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
 - 2 [Hierarchical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf)
-- 3 [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf)
+- 3 [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf)Yoon Kim. 2014
 - 4 [More Data, More Relations, More Context and More Openness:A Review and Outlook for Relation Extraction](https://arxiv.org/pdf/2004.03186.pdf)
 
 #### 命名实体
