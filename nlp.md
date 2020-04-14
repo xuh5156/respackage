@@ -8,6 +8,12 @@
 
 ### Corpus
 - 1 [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)
+- 2 [大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus)
+- 3 [用于对话系统的中英文语料](https://github.com/candlewill/Dialog_Corpus)
+- 4 [中文公开聊天语料库](https://github.com/codemayq/chinese_chatbot_corpus)
+- 5 [中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus)
+- 6 [公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名](https://github.com/wainshine/Company-Names-Corpus)
+- 7 [搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
 
 ### 工具
 - 1 [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
@@ -25,6 +31,7 @@
 - 2 [NLP民工的乐园: 几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
 - 3 [awesome-nlp](https://github.com/keon/awesome-nlp)
 - 4 [Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP)](https://github.com/didi/ChineseNLP)
+- 5 [awesome-bert](https://github.com/Jiakui/awesome-bert)
 
 ### 其他
 - 1 [数据增强:Data augmentation for NLP, presented at EMNLP 2019](https://github.com/jasonwei20/eda_nlp)
@@ -34,7 +41,7 @@
 ### 论文
 
 #### 文本分类
-- 1 [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
+- 1 [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf) Shervin Minaee,Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao. 2020
 - 2 [Hierarchical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf) Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy. 2016
 - 3 [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf) Yoon Kim. 2014
 - 4 [More Data, More Relations, More Context and More Openness:A Review and Outlook for Relation Extraction](https://arxiv.org/pdf/2004.03186.pdf) Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao,Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. 2020
