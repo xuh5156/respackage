@@ -37,9 +37,19 @@
 - 1 [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
 - 2 [Hierarchical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf)
 - 3 [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181.pdf)
+- 4 [More Data, More Relations, More Context and More Openness:A Review and Outlook for Relation Extraction](https://arxiv.org/pdf/2004.03186.pdf)
+
 #### 命名实体
 - 1 [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030.pdf)
 - 2 [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf)
+- 3 [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/pdf/1812.09449.pdf)
+
+#### 知识图谱
+- 1 [A Survey on Knowledge Graphs:Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)
+
+#### 预训练
+- 1 [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf)
+
 ### 文章和博客
 - 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11)
 - 2 [神经网络结构在命名实体识别（NER）中的应用](https://www.cnblogs.com/robert-dlut/p/6847401.html)
