@@ -7,4 +7,5 @@
 - 4 [chinese-poetry: 最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 - 5 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - 6 [中国的表情包](https://github.com/zhaoolee/ChineseBQB)
+- 7 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 
