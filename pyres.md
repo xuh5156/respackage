@@ -13,6 +13,7 @@
 - 10 [yagmail -- Yet Another GMAIL/SMTP client](https://github.com/kootenpv/yagmail)
 - 11 [Faker is a Python package that generates fake data for you](https://github.com/joke2k/faker)
 - 12 [Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
+- 13 [CUP, common useful python-lib. (Currently, Most popular python lib in baidu)](https://github.com/baidu/CUP)
 
 ## 资源集合
 - 1 [awesone-python](https://github.com/vinta/awesome-python)
@@ -30,3 +31,4 @@
 - 6 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
 - 7 [Rasa聊天机器人](https://github.com/RasaHQ/rasa)
 - 8 [Rasa NLU for Chinese](https://github.com/crownpku/Rasa_NLU_Chi)
+- 9 [百度开源中文词法分析工具, 核心功能：分词，词性标注，专名识别等](https://github.com/baidu/lac)
