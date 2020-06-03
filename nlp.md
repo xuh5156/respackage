@@ -40,6 +40,9 @@
 
 ### 论文
 
+####NLP
+- 1 [Natural Language Processing Advancements By Deep Learning: A Survey](https://arxiv.org/pdf/2003.01200.pdf)Amirsina Torfi, Member, IEEE, Rouzbeh A. Shirvani, Yaser Keneshloo, Nader Tavaf,and Edward A. Fox. 2020
+
 #### 文本分类
 - 1 [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf) Shervin Minaee,Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao. 2020
 - 2 [Hierarchical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf) Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy. 2016
