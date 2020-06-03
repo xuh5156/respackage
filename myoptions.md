@@ -1,5 +1,7 @@
 # myoptions: 自己的开发机器的配置
 
+[TOC]
+
 ## 软件安装和配置
 
 ### 安装 ssh server
@@ -37,11 +39,11 @@ export PATH=${JAVA_HOME}/bin:$PATH
 
 sudo apt-get install zsh
 
--2 配置oh-my-zsh
+- 2 配置oh-my-zsh
 
 git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 
-- 2 修改默认shell
+- 3 修改默认shell
 
 chsh -s /usr/bin/zsh   **不需要sudo**
 
@@ -72,5 +74,5 @@ sudo dpkg -i teamviewer_15.0.8397_amd64.deb
     ### 安装postman
     直接下载软件包，解压直接使用，配置桌面快捷启动参考上面说明
 
-    
+
   
