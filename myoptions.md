@@ -1,7 +1,5 @@
 # myoptions: 自己的开发机器的配置
 
-[TOC]
-
 ## 软件安装和配置
 
 ### 安装 ssh server
