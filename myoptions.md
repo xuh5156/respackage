@@ -69,8 +69,11 @@ sudo dpkg -i teamviewer_15.0.8397_amd64.deb
 
     * 3.2 创建好Desktop Entry文件后，可以在系统搜索中找到相应的app图标，右键"Add to Favorites"即可添加到快捷启动中
 
-    ### 安装postman
+### 安装postman
     直接下载软件包，解压直接使用，配置桌面快捷启动参考上面说明
 
+### 安装maven
 
-  
+sudo apt-get install maven
+
+### 安装docker  

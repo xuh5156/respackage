@@ -14,6 +14,7 @@
 - 11 [Faker is a Python package that generates fake data for you](https://github.com/joke2k/faker)
 - 12 [Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
 - 13 [CUP, common useful python-lib. (Currently, Most popular python lib in baidu)](https://github.com/baidu/CUP)
+- 14 [Python 艺术二维码生成器](https://github.com/sylnsfar/qrcode)
 
 ## 资源集合
 - 1 [awesone-python](https://github.com/vinta/awesome-python)
