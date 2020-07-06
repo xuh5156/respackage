@@ -49,6 +49,13 @@ chsh -s /usr/bin/zsh   **不需要sudo**
 ### 安装teamviewer
 sudo dpkg -i teamviewer_15.0.8397_amd64.deb
 
+### 安装向日葵
+向日葵远程控制可以替代teamviewer使用，
+
+下载: https://sunlogin.oray.com/download/
+
+安装参考https://zhuanlan.zhihu.com/p/144426017
+
 ### 安装anaconda
 
 ### 安装vscode/IntelliJ_IDEA/pycharm
