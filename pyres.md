@@ -23,13 +23,4 @@
 - 1 [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - 2 [利用Python进行数据分析 2017 第二版 中文翻译笔记](https://github.com/BrambleXu/pydata-notebook)
 
-## NLP
-- 1 [jieba](https://github.com/fxsjy/jieba)
-- 2 [Synonyms](https://github.com/huyingxi/Synonyms)
-- 3 [langid.py](https://github.com/saffsd/langid.py)
-- 4 [PyText is a deep-learning based NLP modeling framework built on PyTorch](https://github.com/facebookresearch/pytext)
-- 5 [allennlp](https://github.com/allenai/allennlp)
-- 6 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
-- 7 [Rasa聊天机器人](https://github.com/RasaHQ/rasa)
-- 8 [Rasa NLU for Chinese](https://github.com/crownpku/Rasa_NLU_Chi)
-- 9 [百度开源中文词法分析工具, 核心功能：分词，词性标注，专名识别等](https://github.com/baidu/lac)
+

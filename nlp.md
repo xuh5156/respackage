@@ -16,12 +16,27 @@
 - 7 [搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
 
 ### 工具
+#### 词法分析
+- 1 [百度词法分析工具LAC](https://github.com/baidu/lac)
+- 2 [jieba](https://github.com/fxsjy/jieba)
+- 3 [Synonyms](https://github.com/huyingxi/Synonyms)
+#### 句法分析
+- 1 [百度依存句法分析工具DDParser](https://github.com/baidu/DDParser)
+#### NLU和DM
+- 1 [Rasa聊天机器人](https://github.com/RasaHQ/rasa)
+- 2 [Rasa NLU for Chinese](https://github.com/crownpku/Rasa_NLU_Chi)
+
+####文本分类
+- 1 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
+#### 综合
 - 1 [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
 - 2 [LTP: Language Technology Platform](https://github.com/HIT-SCIR/ltp)
-- 3 [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)
-- 4 [YEDDA: A Lightweight Collaborative Text Span Annotation Tool](https://github.com/jiesutd/YEDDA)
-- 5 [Rasa聊天机器人](https://github.com/RasaHQ/rasa)
-- 6 [Rasa NLU for Chinese](https://github.com/crownpku/Rasa_NLU_Chi)
+- 3 [allennlp](https://github.com/allenai/allennlp)
+- 4 [PyText is a deep-learning based NLP modeling framework built on PyTorch](https://github.com/facebookresearch/pytext)
+#### 其他
+- 1 [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)
+- 2 [YEDDA: A Lightweight Collaborative Text Span Annotation Tool](https://github.com/jiesutd/YEDDA)
+- 3 [langid.py](https://github.com/saffsd/langid.py)
 
 ### 教程
 - 1 [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
@@ -32,6 +47,7 @@
 - 3 [awesome-nlp](https://github.com/keon/awesome-nlp)
 - 4 [Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP)](https://github.com/didi/ChineseNLP)
 - 5 [awesome-bert](https://github.com/Jiakui/awesome-bert)
+- 6 [The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 
 ### 其他
 - 1 [数据增强:Data augmentation for NLP, presented at EMNLP 2019](https://github.com/jasonwei20/eda_nlp)
