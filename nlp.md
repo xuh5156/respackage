@@ -51,6 +51,7 @@
 
 ### 其他
 - 1 [数据增强:Data augmentation for NLP, presented at EMNLP 2019](https://github.com/jasonwei20/eda_nlp)
+- 2 [A Survey of Surveys：NLP & ML综述论文](https://github.com/NiuTrans/ABigSurvey)
 
 ## 其他网络资源
 
@@ -70,8 +71,9 @@
 - 2 [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf) Zhiheng Huang,Wei Xu,Kai Yu. 2015
 - 3 [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/pdf/1812.09449.pdf) Jing Li, Aixin Sun, Jianglei Han, and Chenliang Li. 2020
 
-#### chatbot
--1 [Neural Approaches to Conversational AI:Question Answering, Task-Oriented Dialogues and Social Chatbots](https://arxiv.org/pdf/1809.08267.pdf)
+#### NLU/DM/chatbot
+- 1 [Neural Approaches to Conversational AI:Question Answering, Task-Oriented Dialogues and Social Chatbots](https://arxiv.org/pdf/1809.08267.pdf)
+- 2 [Utterance-level Dialogue Understanding: An Empirical Study](https://arxiv.org/pdf/2009.13902.pdf)
 #### 知识图谱
 - 1 [A Survey on Knowledge Graphs:Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf) Shaoxiong Ji, Shirui Pan, Erik Cambria, Senior Member,Pekka Marttinen, Philip S. Yu. 2020
 
