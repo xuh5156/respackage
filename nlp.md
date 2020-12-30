@@ -4,6 +4,7 @@
 
 ### Words
 - 1 [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+- 2 [THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
 
 
 ### Corpus
