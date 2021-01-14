@@ -16,6 +16,7 @@
 - 13 [CUP, common useful python-lib. (Currently, Most popular python lib in baidu)](https://github.com/baidu/CUP)
 - 14 [Python 艺术二维码生成器](https://github.com/sylnsfar/qrcode)
 - 15 [Dear PyGui is a simple to use (but powerful) Python GUI framework.](https://github.com/hoffstadt/DearPyGui)
+- 16 [Typer, build great CLIs. Easy to code. Based on Python type hints.](https://github.com/tiangolo/typer)
 
 ## 资源集合
 - 1 [awesone-python](https://github.com/vinta/awesome-python)
