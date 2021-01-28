@@ -38,6 +38,7 @@
 - 1 [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)
 - 2 [YEDDA: A Lightweight Collaborative Text Span Annotation Tool](https://github.com/jiesutd/YEDDA)
 - 3 [langid.py](https://github.com/saffsd/langid.py)
+- 4 [doccano is an open source text annotation tool for humans](https://github.com/doccano/doccano)
 
 ### 教程
 - 1 [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
