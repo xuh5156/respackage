@@ -21,6 +21,10 @@
 ## 资源集合
 - 1 [awesone-python](https://github.com/vinta/awesome-python)
 
+## 机器学习
+- 1 [TensorFlow-From-Zero-To-One](https://github.com/amusi/TensorFlow-From-Zero-To-One)
+- 2 [PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)
+- 3 [Awesome-Pytorch-list中文版](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
 ## python 教程
 - 1 [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - 2 [利用Python进行数据分析 2017 第二版 中文翻译笔记](https://github.com/BrambleXu/pydata-notebook)

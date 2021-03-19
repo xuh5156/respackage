@@ -29,6 +29,10 @@
 
 ####文本分类
 - 1 [腾讯开源·NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
+
+####文本匹配
+- 1 [MatchZoo 是一个通用的文本匹配工具包，它旨在方便大家快速的实现、比较、以及分享最新的深度文本匹配模型。](https://github.com/NTMC-Community/MatchZoo)
+
 #### 综合
 - 1 [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
 - 2 [LTP: Language Technology Platform](https://github.com/HIT-SCIR/ltp)
