@@ -15,6 +15,7 @@
 - 5 [中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus)
 - 6 [公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名](https://github.com/wainshine/Company-Names-Corpus)
 - 7 [搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
+- 8 [开源中文聊天语料](https://github.com/codemayq/chinese_chatbot_corpus)
 
 ### 工具
 #### 词法分析

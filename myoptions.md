@@ -11,7 +11,39 @@ sudo apt-get install vim
 ***推荐spf13配置[spf13](https://github.com/spf13/spf13-vim)**
 
 ### 安装git
+- 1 安装git
+
 sudo apt-get install git
+
+- 2 配置git
+
+在home目录下配置.gitconfig文件，参考如下:
+
+    [http]
+	    sslverify = false
+    [alias]
+        cl = clone
+        st = status
+        ci = commit
+        br = branch
+        co = checkout
+        df = diff
+    [diff]
+        external = ~/git-meld.sh #用meld来做比较的工具
+    [user]
+        email = username@xxx.com
+        name = username
+    [credential]
+        helper = store
+    [core]
+        quotepath = false
+    [push]
+        default = simple
+
+其中，用meld做比较的工具，需要安装meld软件，并且新建一个git-meld.sh的脚本文件，脚本内容如下
+    
+    #!/bin/sh
+    meld $2 $5
 
 ### 安装 svn
 sudo apt-get install subversion 
