@@ -44,6 +44,7 @@
 - 2 [YEDDA: A Lightweight Collaborative Text Span Annotation Tool](https://github.com/jiesutd/YEDDA)
 - 3 [langid.py](https://github.com/saffsd/langid.py)
 - 4 [doccano is an open source text annotation tool for humans](https://github.com/doccano/doccano)
+- 5 [label-studio](https://github.com/heartexlabs/label-studio)
 
 ### 教程
 - 1 [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
@@ -59,7 +60,9 @@
 ### 其他
 - 1 [数据增强:Data augmentation for NLP, presented at EMNLP 2019](https://github.com/jasonwei20/eda_nlp)
 - 2 [A Survey of Surveys：NLP & ML综述论文](https://github.com/NiuTrans/ABigSurvey)
-
+- 3 [A Survey on Spoken Language Understanding: Recent Advances and New Frontiers](https://github.com/yizhen20133868/Awesome-SLU-Survey)
+- 4 [Task-Oriented Dialogue Research Progress Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey)
+- 5 [Summarization Papers](https://github.com/xcfcode/Summarization-Papers)
 ## 其他网络资源
 
 ### 论文
