@@ -95,6 +95,9 @@
 - 1 [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai , Xuanjing Huang. 2020
 - 2 [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) Yi Tay,Mostafa Dehghani,Dara Bahri,Donald Metzler. 2020 
 
+#### 相似度匹配，向量检索
+- 1 [Semantic Models for the First-stage Retrieval: A Comprehensive Review](https://arxiv.org/pdf/2103.04831.pdf) JIAFENG GUO, YINQIONG CAI, YIXING FAN,FEI SUN,RUQING ZHANG, and XUEQI CHENG. 2021. [code](https://github.com/caiyinqiong/Semantic-Retrieval-Models)
+
 ### 文章和博客
 - 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11) 2020
 - 2 [神经网络结构在命名实体识别（NER）中的应用](https://www.cnblogs.com/robert-dlut/p/6847401.html) 2017
