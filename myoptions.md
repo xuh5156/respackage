@@ -96,10 +96,10 @@ sudo dpkg -i teamviewer_15.0.8397_amd64.deb
 - 3 配置桌面快捷启动
     * 3.1 创建Desktop Entry文件
         * 3.1.1 idea会在～/.local/share/applications创建jetbrains-idea.desktop，一般不用手动创建
-        * 3.1.2 pycharm启动的时候,在configures下有Create Desktop Entry菜单，会在/usr/share/applications创建jetbrains-pycharm.desktop文件，如图![pycharm](pycharm_desktop.png),
+        * 3.1.2 pycharm启动的时候,在configures下有Create Desktop Entry菜单，会在/usr/share/applications创建jetbrains-pycharm.desktop文件，如图![pycharm](pictures/pycharm_desktop.png),
         * 3.1.3 手动创建Desktop Entry文件(以vscode为例)
 
-            * 在/usr/share/applications创建vscode.desktop文件，编辑内容如图![vscode](vscode_desktop.png))
+            * 在/usr/share/applications创建vscode.desktop文件，编辑内容如图![vscode](pictures/vscode_desktop.png)
             * 其中Icon是图标图片,Exec是执行的命令，修改成对应路径即可
             * StartupWMClass是为了启动多个窗口后，在同一个快捷图标下显示，获取方法如下：
                 * 在终端写入这条命令 xprop WM_CLASS 并回车， 此时鼠标变成 + 的形状，点击应用的窗口
